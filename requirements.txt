@@ -1,0 +1,4 @@
+nltk
+pandas
+openpyxl
+-U selenium
