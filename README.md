@@ -10,6 +10,7 @@ NOTE: YOU MUST USE PYTHON PROGRAMMING TO EXTRACT DATA FROM THE URLs. YOU CAN USE
 
 # 2	Data Analysis
 For each of the extracted texts from the article, perform textual analysis and compute variables, given in the output structure excel file. You need to save the output in the exact order as given in the output structure file, “Output Data Structure.xlsx”
+
 NOTE: YOU MUST USE PYTHON PROGRAMMING FOR THE DATA ANALYSIS
 
 # 3 Variables
